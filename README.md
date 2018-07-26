@@ -7,7 +7,7 @@ This simply script, has only goal to count all commits on a list of projects you
 
 `./get-commits.sh -c "your committer name" -g "your github user" `
 ```
-bash$ git clone oss_summary
+bash$ git clone git@github.com:idev4u/oss_summary.git
 bash$ cd oss_summary
 Bash$ ./get-commits.sh -c "Norman Sutorius" -g "idev4u"
 ```
